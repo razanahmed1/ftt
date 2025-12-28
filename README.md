@@ -1,31 +1,33 @@
-# 📊sales-data Dashboard 
+# 📊Excel sales Dashboard 
 
 ## 📌About the Project
-A comprehensive Power BI dashboard analyzing orders and sales from October 2024 to September 2025. Includes KPIs, shipping status, city-wise sales distribution, and top-performing product categories.
+This project is an Excel-based Sales Dashboard designed to analyze and visualize sales data interactively
 
 ## 🎯 Objective 
 
-Develop an interactive Power BI dashboard that visualizes sales metrics, order details, product categories, and city‑level performance to support data‑driven decisions.
+The objective of this project is to:
+
+* Provide a clear and interactive view of sales performance.
+* Track key metrics such as total sales and active customers.
+* Enable analysis across different dimensions: branches, months, categories, brands, and payment methods.
+* Simplify decision-making by turning raw data into actionable insights.
+* Demonstrate the use of Excel advanced tools (Power Query, Data Model, Pivot Tables, and functions) for professional data analysis.
 
 ## 🔍Project Features
-* Interactive dashboard presenting clear visual insights into sales and order performance
-* Monthly sales trend analysis through a line chart showing sales patterns across the year
-* Key Performance Indicators (KPIs) including Total Sales, Total Profit, and Orders Count
-* Shipping status analysis using a pie chart showing Delivered, In Transit, and Ready‑to‑Deliver orders
-* Product category comparison to identify top‑selling categories
-* Interactive map displaying city‑level sales distribution
-* Detailed orders table including Order ID, customer info, product details, cost, profit, and sales
-* Dynamic filters (Date, City, Product Category) for customized data exploration
-* Clear navigation between the Overview page and the Orders Details page
+Interactive dashboard with charts and KPIs.
+* Power Query for data cleaning and transformation.
+* Data Model for connecting tables.
+* Pivot Tables for flexible analysis.
+* Slicers to filter by month, branch, category, and brand.
   
 ## 🛠️Tools Used
-* Power BI – For building the interactive dashboard and visualizing key insights.
-* Power Query – For cleaning, transforming, and preparing the data.
-* DAX (Data Analysis Expressions) – For creating measures and advanced calculations.
-* Excel – For organizing and preprocessing the raw data before importing it into Power BI.
-* Data Modeling – For designing table relationships and creating a structured analytical model.
 
-  ## 🗂️ Data Structure
+* Microsoft Excel – main platform for building the dashboard
+* Power Query – for cleaning and transforming raw data
+* Data Model – to connect tables and build relationships
+* Pivot Tables – for multi-dimensional analysis
+* Excel Functions – IF, VLOOKUP/XLOOKUP, SUMIF, COUNTIF, TEXT, DATE
+* Slicers & Charts – for interactive filtering and visualization
 
   ## 🖼️ imaage Project
   
@@ -35,7 +37,7 @@ Develop an interactive Power BI dashboard that visualizes sales metrics, order d
 ## 📁 Files 
 
 -  contains raw data, analysis, and charts
-  -   [https://drive.google.com/drive/folders/1YirPlbZsUfA7MHCKsRTrcAirij_KxIzS?usp=drive_link](https://drive.google.com/drive/folders/1sj39OKOA2U2Nhi1MnYqpwBZAr5H2HE5P?usp=drive_link)
+  -  (https://drive.google.com/drive/folders/1rriWi4EGc_NySWv_GxRB-nXPiv3Emike?usp=drive_link)
 
 ## 🚀 Future Enhancements
 
