@@ -30,8 +30,8 @@ Interactive dashboard with charts and KPIs.
 * Slicers & Charts – for interactive filtering and visualization
 
   ## 🖼️ imaage Project
-  
-  ![image here] (https://res.cloudinary.com/dhlxcif1m/image/upload/f_auto,q_auto/v1766936583/pb6gbrwtams6oqk2tnui.png)
+
+  ![image here](https://res.cloudinary.com/dhlxcif1m/image/upload/f_auto,q_auto/v1766936583/pb6gbrwtams6oqk2tnui.png)
   
 ## 📁 Files 
 
