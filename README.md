@@ -31,7 +31,7 @@ Interactive dashboard with charts and KPIs.
 
   ## 🖼️ imaage Project
   
-  ![image here](https://drive.google.com/file/d/1GIhgKQ6ugUpA7ikcLAmTRKML-c9sKGN8/view?usp=drive_link)
+  ![image here] (https://res.cloudinary.com/dhlxcif1m/image/upload/v1766936583/pb6gbrwtams6oqk2tnui.png)
   
 ## 📁 Files 
 
