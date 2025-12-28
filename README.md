@@ -40,10 +40,7 @@ Interactive dashboard with charts and KPIs.
 
 ## 🚀 Future Enhancements
 
-* Add advanced DAX measures for deeper business insights.
-* Implement predictive analytics to forecast future sales trends.
-* Expand the dashboard with additional pages (e.g., Customer Insights, Product Performance).
-* Integrate more data sources to enrich the analysis.
-* Add drill‑through pages for detailed order and customer exploration.
-* Improve the data model with more dimensions (e.g., Region, Supplier).
-* Automate data refresh for real‑time updates.
+* Add forecasting for sales trends.
+* Try connecting the data to Power BI for more visuals.
+* Add more KPIs like profit margin and customer retention.
+* Improve the design for a smoother user experience.ates.
