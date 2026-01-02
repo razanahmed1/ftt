@@ -1,7 +1,7 @@
 # 📊Excel sales Dashboard 
 
 ## 📌About the Project
-This project is an Excel-based Sales Dashboard designed to analyze and visualize sales data interactively
+An advanced interactive dashboard for analyzing sales and branch performance; it enables accurate monitoring of total revenue and customer numbers, with detailed analysis of sales by category, brand, and payment method, making it easier to track growth and identify the most efficient sales channels.
 
 ## 🎯 Objective 
 
